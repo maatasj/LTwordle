@@ -7,7 +7,7 @@ def main():
   with open(readFile, "r", encoding="utf-8") as fr:
     for line in fr:
       word = line.strip()
-      if len(word) == howManyLetters :
+      if len(word) == howManyLetters and word[0].islower():
         validWords.append(word)
   
   with open(writeFileName, "w", encoding="utf-8") as fw:
