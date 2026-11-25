@@ -1,9 +1,12 @@
-## Stage 1
-Assigned roles:
-Matas: Facilitator, Exhibitor
-Alan: Builder(Frontend), designer
-Ratmir: Builder(Backend)
-Ignas: architect, critic
+# Stage 1
+### Assigned roles:
+**Matas:** Facilitator, Exhibitor
+
+**Alan:** Builder(Frontend), Designer
+
+**Ratmir:** Builder(Backend)
+
+**Ignas:** Architect, Critic
 
 
 ## Stage 2
